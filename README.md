@@ -4,7 +4,7 @@ Hi there! I’m **Thanh Huệ**, I’m passionate about exploring new technologi
 
 ## ✨ About Me  
 - I love working on **coding and data analysis** projects.  
-- Constantly learning and growing with a focus on **[Python, SQL, Excel, Power BI]**.  
+- Constantly learning and growing with a focus on **Python, SQL, Excel, Power BI**.  
 - I believe in the power of **innovation and creativity** to turn ideas into impactful solutions.    
 
 ## 🧰 Languages and Tools
