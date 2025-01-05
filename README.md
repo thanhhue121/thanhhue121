@@ -17,5 +17,8 @@ Hi there! I’m **Thanh Huệ**, I’m passionate about exploring new technologi
 
 ## LeetCode
 Tracking my LeetCode progress: https://leetcode.com/u/Hue121/
+![LeetCode Progress](https://img.shields.io/badge/LeetCode-Progress-brightgreen?logo=leetcode)
+[View My Progress](https://leetcode.com/u/Hue121/)
+
 
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or ideas to collaborate on 💕  
