@@ -15,9 +15,4 @@ Hi there! I’m **Thanh Huệ**, I’m passionate about exploring new technologi
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <br />
 
-## 📫 How to Reach Me  
-Feel free to connect with me here or on other platforms:  
-- 🔗 [[LinkedIn profile link](https://www.linkedin.com/in/nguy%E1%BB%85n-thanh-hu%E1%BB%87-80497a237/)]  
-- 📧 Email: [nguyenthanhhue.ftuzone@gmail.com]
-
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or ideas to collaborate on 😊  
