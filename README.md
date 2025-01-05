@@ -15,4 +15,7 @@ Hi there! I’m **Thanh Huệ**, I’m passionate about exploring new technologi
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <br />
 
+## LeetCode
+Tracking my LeetCode progress: https://leetcode.com/progress/
+
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or ideas to collaborate on 💕  
