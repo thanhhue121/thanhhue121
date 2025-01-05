@@ -1,9 +1,9 @@
 # 👋 About Me  
 
-Hi there! I’m **[Thanh Huệ]**, and welcome to my GitHub repository!  
+Hi there! I’m **Thanh Huệ**, and welcome to my GitHub repository!  
 
 ## 🌟 Who Am I?  
-I’m a **[your role, e.g., aspiring developer/data analyst/student]** with a passion for **[coding and data analysis]**. I enjoy solving problems, learning new technologies, and building things that make life easier.  
+I’m a **[your role, e.g., aspiring developer/data analyst/student]** with a passion for **coding and data analysis**. I enjoy solving problems, learning new technologies, and building things that make life easier.  
 
 ## 🔧 Skills & Interests  
 - **Programming Languages**: [List your languages, e.g., Python, Java, VBA]  
