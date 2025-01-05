@@ -1,9 +1,11 @@
-# 👋 About Me  
+# 👋 Welcome to my GitHub
 
-Hi there! I’m **Thanh Huệ**, and welcome to my GitHub repository!  
+Hi there! I’m **Thanh Huệ**, I’m passionate about exploring new technologies, solving interesting problems, and sharing my journey through the projects I build.
 
-## 🌟 Who Am I?  
-I’m a **[your role, e.g., aspiring developer/data analyst/student]** with a passion for **coding and data analysis**. I enjoy solving problems, learning new technologies, and building things that make life easier.  
+## ✨ About Me  
+- I love working on **coding and data analysis** projects.  
+- Constantly learning and growing with a focus on **[Python, SQL, Excel, Power BI]**.  
+- I believe in the power of **innovation and creativity** to turn ideas into impactful solutions.    
 
 ## 🧰 Languages and Tools
 
@@ -18,4 +20,4 @@ Feel free to connect with me here or on other platforms:
 - 🔗 [[LinkedIn profile link](https://www.linkedin.com/in/nguy%E1%BB%85n-thanh-hu%E1%BB%87-80497a237/)]  
 - 📧 Email: [nguyenthanhhue.ftuzone@gmail.com]
 
- Thank you for visiting my repository! 😊  
+Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or ideas to collaborate on 😊  
