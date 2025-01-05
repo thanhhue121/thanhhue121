@@ -1,4 +1,27 @@
 ## Hi there 👋
+👋 About Me
+Hi there! I’m [Your Name], and welcome to my GitHub repository!
+
+🌟 Who Am I?
+I’m a [your role, e.g., aspiring developer/data analyst/student] with a passion for [your interests, e.g., coding, data analysis, machine learning]. I enjoy solving problems, learning new technologies, and building things that make life easier.
+
+🔧 Skills & Interests
+Programming Languages: [List your languages, e.g., Python, Java, VBA]
+Technologies: [e.g., SQL, Excel, Power BI, Git]
+Areas of Interest: [e.g., data analytics, automation, web development]
+🚀 Goals
+I’m currently working on:
+
+[Your current projects or learning goals]
+Exploring [specific topics/technologies you’re interested in]
+Contributing to open-source projects
+📫 How to Reach Me
+Feel free to connect with me here or on other platforms:
+
+🌐 [Portfolio or personal website link]
+🔗 [LinkedIn profile link]
+📧 Email: [your email]
+Thank you for visiting my repository! 😊
 
 <!--
 **thanhhue121/thanhhue121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
