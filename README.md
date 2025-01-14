@@ -20,5 +20,6 @@ Tracking my LeetCode progress: https://leetcode.com/u/Hue121/
 
 ## 📊 My coding journey
 I embarked on my coding journey as a fourth-year student, driven by curiosity and a strong desire to learn new things. My first step into the world of programming was with VBA, which significantly enhanced my work with Excel and saved me a lot of time. This experience made me realize that coding wasn’t as difficult as I initially thought—it's all about logic, practice, and developing creative solutions. With that newfound confidence, I gradually expanded my skills by learning SQL and Python, continuously building my knowledge and tackling more complex challenges along the way.
+<br />
 
-# Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or ideas to collaborate on 💕  
+Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or ideas to collaborate on 💕  
